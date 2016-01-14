@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Scanner;
-
+//More changes Hello World 2
 /**
  * Runs a number of algorithms that try to fit files onto disks.
  */
@@ -29,7 +29,6 @@ public class Bins {
     /**
      * The main program.
      */
-    //Hello World
     public static void main (String args[]) {
         Bins b = new Bins();
         Scanner input = new Scanner(Bins.class.getClassLoader().getResourceAsStream(DATA_FILE));
