@@ -29,6 +29,7 @@ public class Bins {
     /**
      * The main program.
      */
+    //Hello World
     public static void main (String args[]) {
         Bins b = new Bins();
         Scanner input = new Scanner(Bins.class.getClassLoader().getResourceAsStream(DATA_FILE));
